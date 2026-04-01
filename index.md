@@ -4,7 +4,7 @@ With features from the C family of languages and other features inspired by less
 
 At the moment, this documentation simply highlights some of the more unique features of Reublab, so it's important to note that the language makes heavy use of C-style syntax (i.e. curly braces) but for type definitions, uses syntax familiar to TypeScript developers.
 
-Version 0.1 (April 2026) ([Read this on GitHub](https://github.com/reubwa/reublab/blob/main/index.md))
+Version 1 (April 2026) ([Read this on GitHub](https://github.com/reubwa/reublab/blob/main/index.md))
 
 # Structure and Modules
 
